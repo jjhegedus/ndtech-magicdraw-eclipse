@@ -1,0 +1,12 @@
+[submodule "MagicDraw"]
+	path = MagicDraw
+	url = https://github.com/jjhegedus/MagicDraw.git
+[submodule "MagicDrawWithAllPluginsLauncher"]
+	path = MagicDrawWithAllPluginsLauncher
+	url = https://github.com/jjhegedus/MagicDrawWithAllPluginsLauncher.git
+[submodule "ndtech-magicdraw-test"]
+	path = ndtech-magicdraw-test
+	url = https://github.com/jjhegedus/ndtech-magicdraw-test.git
+[submodule "ndtech-magicdraw"]
+	path = ndtech-magicdraw
+	url = https://github.com/jjhegedus/ndtech-magicdraw.git
